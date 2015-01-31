@@ -1,7 +1,5 @@
 package org.dummy
 
-object ScalaApp extends App{
-  //TODO: Fill the data model OlympicAthletes and OlympicCountries
 import org.apache.spark.SparkContext
 import org.apache.spark.SparkContext._
 
@@ -18,4 +16,6 @@ object ScalaApp extends App {
       Integer.parseInt(arr(7)), Integer.parseInt(arr(8)))
   }
   )
+
 }
+
