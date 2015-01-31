@@ -1,4 +1,3 @@
-Athlete,Age,Country,Year,Closing Ceremony Date,Sport,Gold Medals,Silver Medals,Bronze Medals,Total Medals
 Michael Phelps,23,United States,2008,8/24/08,Swimming,8,0,0,8
 Michael Phelps,19,United States,2004,8/29/04,Swimming,6,0,2,8
 Michael Phelps,27,United States,2012,8/12/12,Swimming,4,2,0,6
@@ -1427,9 +1426,6 @@ Aleksandr Yeryshov,27,Russia,2000,10/1/00,Waterpolo,0,1,0,1
 Marat Zakirov,26,Russia,2000,10/1/00,Waterpolo,0,1,0,1
 Predrag Zimonjic,29,Serbia and Montenegro,2000,10/1/00,Waterpolo,0,0,1,1
 Irek Zinnurov,31,Russia,2000,10/1/00,Waterpolo,0,1,0,1
-,,Brazil,2012,8/12/12,Volleyball,0,1,0,1
-,,Brazil,2012,8/12/12,Volleyball,0,1,0,1
-,,Brazil,2012,8/12/12,Volleyball,0,1,0,1
 Foluke Akinradewo,24,United States,2012,8/12/12,Volleyball,0,1,0,1
 Thiago Alves,26,Brazil,2012,8/12/12,Volleyball,0,1,0,1
 Nikolay Apalikov,29,Russia,2012,8/12/12,Volleyball,1,0,0,1
@@ -4484,8 +4480,6 @@ Mike York,24,United States,2002,2/24/02,Ice Hockey,0,1,0,1
 Scott Young,34,United States,2002,2/24/02,Ice Hockey,0,1,0,1
 Steve Yzerman,36,Canada,2002,2/24/02,Ice Hockey,1,0,0,1
 Aleksey Zhamnov,31,Russia,2002,2/24/02,Ice Hockey,0,0,1,1
-,,Argentina,2012,8/12/12,Hockey,0,1,0,1
-,,Argentina,2012,8/12/12,Hockey,0,1,0,1
 Marilyn Agliotti,33,Netherlands,2012,8/12/12,Hockey,1,0,0,1
 Lucha Aymar,34,Argentina,2012,8/12/12,Hockey,0,1,0,1
 Sander Baart,24,Netherlands,2012,8/12/12,Hockey,0,1,0,1

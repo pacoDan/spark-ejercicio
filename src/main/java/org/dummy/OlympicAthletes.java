@@ -1,6 +1,8 @@
 package org.dummy;
 
-public class OlympicAthletes {
+import java.io.Serializable;
+
+public class OlympicAthletes implements Serializable {
     private final String name;
     private final int yearFirstMedal;
     private final int yearLastMedal;

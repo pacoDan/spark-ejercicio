@@ -1,6 +1,8 @@
 package org.dummy;
 
-public final class OlympicMedalRecords {
+import java.io.Serializable;
+
+public final class OlympicMedalRecords implements Serializable {
     private final String name;
     private final int age;
     private final String country;
